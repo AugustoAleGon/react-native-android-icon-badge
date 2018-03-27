@@ -1,0 +1,25 @@
+{
+  "name": "react-native-android-icon-badge",
+  "version": "1.0.1",
+  "description": "Library for displaying Icon Badge on Android using this https://github.com/leolin310148/ShortcutBadger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "icon-badge",
+    "android",
+    "badge",
+    "launcher-icon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AugustoAleGon/react-native-android-icon-badge"
+  },
+  "author": "Augusto Gonzalez",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
